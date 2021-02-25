@@ -2,7 +2,7 @@
 public class Seed {
 public void run()  // method
 {
-	System.out.println("Welcome to seed infotech ");
+	System.out.println("Welcome to seed plantation ");
 }
 public static void start()
 {

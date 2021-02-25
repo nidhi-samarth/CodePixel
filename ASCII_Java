@@ -1,0 +1,16 @@
+
+//ASCII is American Standard Code for Information Interchange
+//It is a 7 bit character sets,contains 128 character(from 0 to 127)
+//It represents numerical value of a character
+//we write character in single quotes whereas string in double quotes
+
+public class Ascii {
+public static void main(String args[])
+{
+	char ch= 'A';
+	int ASCII=ch;
+	//to avoid casting 
+
+	System.out.println("The ASCII value of " + ch + " is: " + ASCII);
+}
+}
